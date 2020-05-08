@@ -616,7 +616,7 @@ Das ist das **SEIRS Modell**. Das letzte "S" steht wieder für <icon s></icon> "
 
 ![](pics/seirs.png)
 
-Lass' uns jetzt einen COVID-19 Ausbruch über 10 Jahre, ohne Maßnahmen, simulieren ... *wenn Immunität nur ein Jahr anhält:*
+Lass uns jetzt einen COVID-19 Ausbruch über 10 Jahre, ohne Maßnahmen, simulieren ... *wenn Immunität nur ein Jahr anhält:*
 
 <div class="sim">
 		<iframe src="sim?stage=yrs-2&format=lines&height=600" width="800" height="600"></iframe>
@@ -716,4 +716,3 @@ Was bedeutet das für DICH, jetzt gerade?
 Spiele die Angst nicht herunter, um Hoffnung aufzubauen. Unsere Angst sollte sich mit unserer Hoffnung *verbünden*, wie die Erfinder der Flugzeuge und Fallschirme. Mit der Vorbereitung auf eine schreckliche Zukunft *erschaffen* wir eine hoffnungsvolle Zukunft.
 
 Das einzige, was man fürchten muss, ist die Vorstellung, dass das einzige, was man fürchten muss, die Furcht selbst ist. 
-
