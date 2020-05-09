@@ -231,8 +231,7 @@ Dies scheint paradox! COVID-19 ist eine extrem ansteckende Krankheit, jedoch rei
 
 ![](pics/r4.png)
 
-Falls du glaubst, dass R<sub>0</sub> oder einige der anderen Zahlen unserer Simulationen zu klein oder groß sind - super! Damit hinterfragst du unsere Annahmen. Am Ende gibt es einen "Sandbox-Modus", bei dem du deine *eigenen* Zahlen auswählen und simulieren kannst, was dann passiert.) 
-=======
+(Falls du glaubst, dass R<sub>0</sub> oder einige der anderen Zahlen unserer Simulationen zu klein oder groß sind - super! Damit hinterfragst du unsere Annahmen. Am Ende gibt es einen "Sandkasten-Modus", bei dem du deine *eigenen* Zahlen auswählen und simulieren kannst, was dann passiert.)
 
 *Jede* COVID-19 Maßnahme, von der du gehört hast - sei es Händewaschen, Abstand halten, "Lockdown", Selbstisolationen, "Contact Tracing", Quarantäne, Gesichtsmasken oder Herdenimmunität - machen *alle* das selbe: 
 
@@ -257,7 +256,7 @@ Etwa 1 von 20 Menschen, die sich mit COVID-19 infiziert haben, benötigen eine i
 
 [^icu_covid]: [Prozentualer Anteil der COVID-19-Fälle in den USA vom 12. Februar bis 16. März 2020, die eine intensivmedizinische Behandlung benötigten, nach Altersgruppe](https://www.statista.com/statistics/1105420/covid-icu-admission-rates-us-by-age-group/)(übersetzt):"Percentage of COVID-19 cases in the United States from February 12 to March 16, 2020 that required intensive care unit (ICU) admission, by age group". Zwischen 4,9 % und 11,5 % *aller* COVID-19-Fälle benötigten eine intensivmedizinische Behandlung. Wenn man die unterste Schätzung wählt, sind das 5 % oder 1 von 20. Diese Gesamtzahl ist spezifisch für die Altersstruktur der USA. In Ländern mit älterer Bevölkerung wird sie höher und in Ländern mit jüngerer Bevölkerung niedriger sein.
 
-[^icu_us]: Anzahl der Betten auf der Intensivstation = 96.596. Von [der _Society of Critical Care Medicine_ (Gesellschaft für Intensivmedizin)] (https://sccm.org/Blog/March-2020/United-States-Resource-Availability-for-COVID-19) Die Bevölkerung der USA betrug im Jahr 2019 rund 328.200.000 Personen. 96.596 von 328.200.000 macht ungefähr 1 von 3400.  
+[^icu_us]: Anzahl der Betten auf der Intensivstation = 96.596. Von [der _Society of Critical Care Medicine_ (Gesellschaft für Intensivmedizin)](https://sccm.org/Blog/March-2020/United-States-Resource-Availability-for-COVID-19) Die Bevölkerung der USA betrug im Jahr 2019 rund 328.200.000 Personen. 96.596 von 328.200.000 macht ungefähr 1 von 3400.  
 
 Selbst wenn wir diese Kapazität auf 2% *mehr als verdreifacht* hätten, wäre Folgendes passiert, *wenn wir absolut nichts getan hätten:*
 
@@ -267,7 +266,7 @@ Selbst wenn wir diese Kapazität auf 2% *mehr als verdreifacht* hätten, wäre F
 
 Gar nicht gut.
 
-Eben das hat [der Bericht des Imperial College vom 16. März] (http://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-9-impact-of-npis-on-covid-19/) herausgefunden: Wenn wir nichts tun, gehen uns die Betten auf den Intensivstationen aus und mehr als 80% der Bevölkerung werden infiziert. 
+Eben das hat [der Bericht des Imperial College vom 16. März](http://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-9-impact-of-npis-on-covid-19/) herausgefunden: Wenn wir nichts tun, gehen uns die Betten auf den Intensivstationen aus und mehr als 80% der Bevölkerung werden infiziert. 
 (zur Erinnerung: die Gesamtzahl der Fälle *überschreitet* die Herdenimmunität)
 
 Selbst wenn nur 0,5% der Infizierten sterben - eine sehr optimistische Annahme, wenn es keine Betten auf Intensivstationen mehr gibt - dann sterben in einem großen Land wie den USA mit 300 Millionen Menschen 0,5% von 80% der 300 Millionen. Also immer noch 1,2 Millionen Menschen ... *FALLS wir nichts tun*.
