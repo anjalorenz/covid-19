@@ -36,7 +36,7 @@ Wir (Marcel, Epidemiologe + Nicky, Kunst / Code) sind ehrlich gesagt auch besorg
 * **Über die nächsten paar Monate** (Lockdown, Contact Tracing, Masken)
 * **Über die nächsten paar Jahre** (Verlust der Immunität? Kein Impfstoff?)
 
-Dieser Wegweiser (veröffentlicht am 1. Mai 2020[^timestamp]) soll Dir zugleich Hoffnung geben und Angst machen. Denn um COVID-19 auf eine Weise zu schlagen, die auch **unsere geistige Gesundheit und unsere finanzielle Situation schützt**, brauchen wir zum einen Optimismus, um Pläne zu machen, zum anderen Pessimismus, um Backup-Pläne zu erstellen. Wie Gladys Bronwyn Stern einmal sagte: *"Der Optimist erfindet das Flugzeug und der Pessimist den Fallschirm."*
+Dieser Wegweiser (veröffentlicht am 1. Mai 2020[^timestamp]) soll dir zugleich Hoffnung geben und Angst machen. Denn um COVID-19 auf eine Weise zu schlagen, die auch **unsere geistige Gesundheit und unsere finanzielle Situation schützt**, brauchen wir zum einen Optimismus, um Pläne zu machen, zum anderen Pessimismus, um Backup-Pläne zu erstellen. Wie Gladys Bronwyn Stern einmal sagte: *"Der Optimist erfindet das Flugzeug und der Pessimist den Fallschirm."*
 
 [^timestamp]: **Dieser Wegweiser wurde am 1. Mai 2020 publiziert.** Viele Details werden obsolet werden, aber wir sind zuversichtlich, dass er 95% aller möglichen zukünftigen Szenarien abdeckt, und dass das 1x1 der Epidemiologie ohne Verfallsdatum nützlich bleiben wird.
 
@@ -208,7 +208,7 @@ Lass uns jetzt das SEIR-Modell betrachten, das nun R<sub>0</sub> zeigt, R über 
 
 Warum ist das so? Wenn es mehr Nicht-<icon s></icon> als die Schwelle der Herdenimmunität gibt, so wird R < 1. Und wenn R < 1 ist, stoppt das Wachstum neuer Fälle: ein Hochpunkt ist erreicht. 
 
-**Wenn du Dir nur eine Sache aus dieser Anleitung merken solltest, dann die folgende** - es ist ein extrem komplexes Diagramm, also nimm dir Zeit, um es zu verinnerlichen: 
+**Wenn du dir nur eine Sache aus dieser Anleitung merken solltest, dann die folgende** - es ist ein extrem komplexes Diagramm, also nimm dir Zeit, um es zu verinnerlichen: 
 
 ![](pics/r3.png)
 
@@ -406,7 +406,7 @@ Das funktioniert folgendermaßen:
 
 ![](pics/dp3t.png)
 
-([Hier findest Du den vollständigen Comic](https://ncase.me/contact-tracing/). Details zu "pranking" / Fehlalarme / etc. in der Fußnote:[^dp3t_details])
+([Hier findest du den vollständigen Comic](https://ncase.me/contact-tracing/). Details zu "pranking" / Fehlalarme / etc. in der Fußnote:[^dp3t_details])
 
 Zusammen mit ähnlichen Teams wie TCN Protocol[^tcn] und MIT PACT[^pact] haben sie Apple & Google dazu gebracht, Kontaktverfolgung bei Wahrung der Privatsphäre direkt in Android/iOS zu implementieren.[^gapple] (Du traust Google/Apple nicht? Gut! Das Schöne an diesem System ist, dass es kein Vertrauen *benötigt*). Bald wird deine örtliche Gesundheitsbehörde dich vielleicht bitten, eine App herunterzuladen. Wenn der Schutz der Privatsphäre dabei gesichert und der Code öffentlich zugänglich ist, dann mach das bitte!
 
