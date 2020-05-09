@@ -178,15 +178,15 @@ Aufgabe am 4. Mai: Lade die aktuelle Version von nickys-Projekt und schaue diese
 | exponential.png               | dotob       | @TQueV    | ja                 |
 | graphs_q.png                  | dotob       | @TQueV    | ja                 |
 | masks.png                     | dotob       |           | ja                 |
-| mitigation_vs_suppression.png | dotob       |           | ja                 |
+| mitigation_vs_suppression.png | dotob       | @TQueV    | ja                 |
 | plan.png                      | dotob       |           | ja                 |
 | r.png                         | dotob       | @TQueV    | ja                 |
 | r2.png                        | dotob       |           | ja                 |
 | r3.png                        | dotob       |           | ja                 |
 | r4.png                        | dotob       |           | ja                 |
-| seir.png                      | dotob       |           | ja                 |
+| seir.png                      | dotob       | @TQueV    | ja                 |
 | seirs.png                     | dotob       |           | ja                 |
-| sir.png                       | dotob       |           | ja                 |
+| sir.png                       | dotob       | @TQueV    | ja                 |
 | spread.png                    | dotob       | @TQueV    | ja                 |
 | susceptibles.png              | dotob       | @TQueV    | ja                 |
 | timeline1.png                 | dotob       | @TQueV    | ja                 |
