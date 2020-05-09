@@ -365,7 +365,7 @@ Wie ist das möglich?
 
 ###Szenario 4: Testen, Verfolgen, Isolieren
 
-*Sicherlich hätten wir das tun können, was Taiwan und Südkorea am Anfang getan haben. Aber dazu ist es jetzt ist es zu spät. Wir haben den Anfang verpasst."*
+*Sicherlich *hätten* wir das tun können, was Taiwan und Südkorea am Anfang getan haben. Aber dazu ist es jetzt zu spät. Wir haben den Anfang verpasst."*
 
 Doch genau das ist es! "Ein Lockdown ist keine Heilung, es ist nur ein Neustart"... **und ein Neustart ist das, was wir brauchen.**
 
