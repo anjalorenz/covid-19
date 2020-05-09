@@ -720,6 +720,7 @@ Was bedeutet das für DICH, jetzt gerade?
 **Für Politikerinnen und Politiker:** Erlassen Sie Gesetze zur Unterstützung von Menschen, die sich selbst isolieren/quarantänisieren müssen. Stellen Sie mehr menschliche Kontaktverfolgerinnen und Kontaktverfolger ein, *unterstützt* durch datenschutzfreundliche Apps. Leiten Sie mehr Mittel in die Dinge, die wir herstellen sollten, wie..
 
 **Für Maker:**[^maker]  Stellt Tests her, Beatmungsgeräte, Personenschutzausrüstung für Krankenhäuser und Arztpraxen. Stellt Tests, Masken und Apps her, dazu antivirale Medikamente, Prophylaktika und andere Behandlungsmethoden, die keine Impfstoffe sind. Und stellt Impfstoffe, Tests, Tests und nochmals Tests her. Erzeugt Hoffnung.
+
 [^maker]: Eine Erklärung des Begriffes ist hier zu finden.(https://de.wikipedia.org/wiki/Maker)
 
 Spiele die Angst nicht herunter, um Hoffnung aufzubauen. Unsere Angst sollte sich mit unserer Hoffnung *verbünden*, wie die Erfinder der Flugzeuge und Fallschirme. Durch Vorbereitung auf eine schreckliche Zukunft *erschaffen* wir eine hoffnungsvolle Zukunft.
