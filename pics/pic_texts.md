@@ -29,10 +29,10 @@ Nach nur 10 Verdoppelungen...
 
 # masks.png
 
-- Tröpfchen werden beim wegfliegen durch Verdunstung kleiner
+- Tröpfchen werden beim Wegfliegen durch Verdunstung kleiner
 - Masken halten größere Tröpfchen besser auf, kleinere schlechter
-- Deshalb sind Masken nicht gut dazu geeignet, sich selbst vorm krank werden zu schützen...
-- ...aber effektiv dabei dich davor zu schützen, andere anzustecken.
+- Deshalb sind Masken nicht gut dazu geeignet, sich selbst vor einer Erkrankung zu schützen
+- ...aber effektiv dabei, dir zu helfen, andere vor einer Ansteckung zu schützen.
 
 # mitigation_vs_suppression.png
 
