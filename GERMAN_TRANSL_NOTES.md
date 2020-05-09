@@ -189,6 +189,6 @@ Aufgabe am 4. Mai: Lade die aktuelle Version von nickys-Projekt und schaue diese
 | sir.png                       | dotob       |           | ja                 |
 | spread.png                    | dotob       | @TQueV    | ja                 |
 | susceptibles.png              | dotob       |           | ja                 |
-| timeline1.png                 | dotob       |           | ja                 |
-| timeline2.png                 | dotob       |           | ja                 |
+| timeline1.png                 | dotob       | @TQueV    | ja                 |
+| timeline2.png                 | dotob       | @TQueV    | ja                 |
 | timeline3.png                 | dotob       |           | ja                 |
