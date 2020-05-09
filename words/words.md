@@ -168,11 +168,9 @@ Kurz für Reproduktionszahl. Sie beschreibt die *durchschnittliche* Anzahl an Me
 
 (Die meisten Zeitungsartikel - und teilweise sogar wissenschaftliche Veröffentlichungen! - verwechseln R und R<sub>0</sub>. Wie gesagt - wissenschaftliche Terminologie ist ein schwieriges Feld.)
 
-Die Basisreproduktionszahl R<sub>0</sub> der saisonalen Grippe liegt bei ungefähr 1,28. Das bedeutet, dass zu Beginn eines Grippeausbruchs jeder <icon i></icon> *im Durchschnitt* 1,28 andere ansteckt. (Falls du dich wunderst, dass 1,28 keine ganze Zahl ist: Eine "durchschnittliche" Mutter hat 2,4 Kinder. Das bedeutet ja auch nicht, dass irgendwo halbe Kinder herumlaufen.)
+Die Basisreproduktionszahl R<sub>0</sub> der saisonalen Grippe liegt bei ungefähr 1,28[^r0_flu]. Das bedeutet, dass zu Beginn eines Grippeausbruchs jeder <icon i></icon> *im Durchschnitt* 1,28 andere ansteckt. (Falls du dich wunderst, dass 1,28 keine ganze Zahl ist: Eine "durchschnittliche" Mutter hat 2,4 Kinder. Das bedeutet ja auch nicht, dass irgendwo halbe Kinder herumlaufen.)
 
-[^r0_flu]: “Der Median des R-Werts der saisonalen Grippe lag bei 1,28 (IQR: 1,19–1,37)” (übersetzt): “The median R value for seasonal influenza was 1.28 (IQR: 1.19–1.37)” Biggerstaff, M., Cauchemez, S., Reed, C. et al. 
-
- [Biggerstaff, M., Cauchemez, S., Reed, C. et al.](https://bmcinfectdis.biomedcentral.com/articles/10.1186/1471-2334-14-480)
+[^r0_flu]: “Der Median des R-Werts der saisonalen Grippe lag bei 1,28 (IQR: 1,19–1,37)” (übersetzt): “The median R value for seasonal influenza was 1.28 (IQR: 1.19–1.37)” [Biggerstaff, M., Cauchemez, S., Reed, C. et al.](https://bmcinfectdis.biomedcentral.com/articles/10.1186/1471-2334-14-480)
 
 Der R<sub>0</sub>-Wert für COVID-19 wird auf etwa 2,2 geschätzt[^r0_covid], obwohl es eine *noch nicht fertiggestellte* Studie gibt, die einen Wert von 5,7(!) für Wuhan schätzt.[^r0_wuhan]
 
