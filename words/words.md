@@ -311,7 +311,7 @@ Drei Anmerkungen:
 
 3. Es fehlen die Betten auf den Intensivstationen. Und das über mehrere Monate. (und dabei haben wir die Betten auf den Intensivstationen für diese Simulation ja *bereits verdreifacht*)
 
-Das war das andere Ergebnis des Imperial-College-Berichts vom 16. März, der Großbritannien davon überzeugte, seinen ursprünglichen Plan aufzugeben. Jeder Versuch einer **Milderung** (R reduzieren, aber R > 1) wird scheitern. Der einzige Ausweg ist **Unterdrückung** (R reduzieren, so dass R < 1).
+Das war das andere Ergebnis des Imperial-College-Berichts vom 16. März, der Großbritannien davon überzeugte, seinen ursprünglichen Plan aufzugeben. Jeder Versuch einer **Abschwächung** (R reduzieren, aber R > 1) wird scheitern. Der einzige Ausweg ist **Eindämmung** (R reduzieren, so dass R < 1).
 ![](pics/mitigation_vs_suppression.png)
 
 Das heißt: Es reicht nicht, die Kurve einfach "abzuflachen". Die Kurve muss *zerstampft* werden. Zum Beispiel mit ...
