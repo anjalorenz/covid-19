@@ -12,7 +12,7 @@
 				🕐 Lese-/Spielzeit: 30 Min.
 				&nbsp;&middot;&nbsp;
 			</b>
-			von
+			von 
 			<a href="https://scholar.google.com/citations?user=_wHMGkUAAAAJ&amp;hl=en">Marcel Salathé</a>
 			(Epidemiologe)
 			&
