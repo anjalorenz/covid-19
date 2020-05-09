@@ -175,7 +175,7 @@ Aufgabe am 4. Mai: Lade die aktuelle Version von nickys-Projekt und schaue diese
 | Bild                          | Übersetzung | Korrektur | ins Bild eingefügt |
 | ----------------------------- | ----------- | --------- | ------------------ |
 | dp3t.png                      | dotob       | @TQueV    | ja                 |
-| exponential.png               | dotob       |           | ja                 |
+| exponential.png               | dotob       | @TQueV    | ja                 |
 | graphs_q.png                  | dotob       | @TQueV    | ja                 |
 | masks.png                     | dotob       |           | ja                 |
 | mitigation_vs_suppression.png | dotob       |           | ja                 |
