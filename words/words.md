@@ -436,12 +436,12 @@ Die Isolierung *symptomatischer* Fälle würde R um bis zu 40% reduzieren, und d
 
 [^oxford]: Von derselben Oxford-Studie, die zuerst Apps im Kampf gegen COVID-19 empfohlen hat: [Luca Ferretti & Chris Wymant et al.](https://science.sciencemag.org/content/early/2020/04/09/science.abb6936/tab-figures-data) Siehe Abbildung 2. Angenommen R<sub>0</sub> = 2.0, fanden sie heraus:    
     
-    * Beitrag der symptomiatischen Fälle zu R = 0.8 (40%)
+    * Beitrag der symptomatischen Fälle zu R = 0.8 (40%)
     * Beitrag der präsymptomatischen Fälle zu R = 0.9 (45%)
     * Beitrag der asymptomatischen Fälle zu R = 0.1 (5%, obwohl ihr Modell Ungewissheiten beinhaltet und der Beitrag viel niedriger sein könnte)
     * Beitrag von Umwelteinflüssen wie z.B. Türklinken zu R = 0.2 (10%)
 
-    Zählt man die prä- und asymptomatischen Kotakte (45% + 5%) zusammen, kommt man auf 50% von R!
+    Zählt man die prä- und asymptomatischen Kontakte (45% + 5%) zusammen, kommt man auf 50% von R!
 
 <div class="sim">
 		<iframe src="sim?stage=int-4a&format=calc" width="285" height="340"></iframe>
@@ -575,7 +575,7 @@ Klar, deine Hände werden wahrscheinlich ganz spröde sein. Aber du kannst dich 
 
 Selbst wenn es zum Worst-Case-Szenario kommt ... das Leben geht weiter.
 
-Also machen wir uns bereit für ein paar wirklich *üble* Worst-Case-Szenarien. Wasserlandung! Nehmen Sie ihre Rettungsweste und begeben Sie sich zu den Notausgängen:  
+Also machen wir uns bereit für ein paar wirklich *üble* Worst-Case-Szenarien. Notwasserung! Nimm deine Rettungsweste und begib dich zu den Notausgängen:  
 <!-- Ende Übersetzung von Julian @herr_hundt -->
 <!-- "The next few years" übersetzt von jan.koelling -->
 <div class="section chapter">
