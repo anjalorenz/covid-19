@@ -174,7 +174,7 @@ Die Basisreproduktionszahl R<sub>0</sub> der saisonalen Grippe liegt bei ungefä
 
 Der R<sub>0</sub>-Wert für COVID-19 wird auf etwa 2,2 geschätzt[^r0_covid], obwohl es eine *noch nicht fertiggestellte* Studie gibt, die einen Wert von 5,7(!) für Wuhan schätzt.[^r0_wuhan]
 
-[^r0_covid]: “Wir schätzen die Basisreproduktionszahl R0 von 2019-nCoV auf etwa 2,2 (übersetzt):“We estimated the basic reproduction number R0 of 2019-nCoV to be around 2.2 (90% high density interval: 1.4–3.8)”  [Riou J, Althaus CL.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7001239/)
+[^r0_covid]: “Wir schätzen die Basisreproduktionszahl R<sub>0</sub> von 2019-nCoV auf etwa 2,2 (übersetzt):“We estimated the basic reproduction number R0 of 2019-nCoV to be around 2.2 (90% high density interval: 1.4–3.8)”  [Riou J, Althaus CL.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7001239/)
 
 [^r0_wuhan]: “wir berechneten den Median des R0-Werts als 5,7 (95% CI 3,8–8,9)” (übersetzt): “we calculated a median R0 value of 5.7 (95% CI 3.8–8.9)” [Sanche S, Lin YT, Xu C, Romero-Severson E, Hengartner N, Ke R.](https://wwwnc.cdc.gov/eid/article/26/7/20-0282_article)
 
@@ -275,7 +275,7 @@ Selbst wenn nur 0,5% der Infizierten sterben - eine sehr optimistische Annahme, 
 
 ###Szenario 1: "Flatten the Curve" / Herdenimmunität
 
-Der Plan "Flatten The Curve" (Abflachen der Kurve) wurde von allen Gesundheitsorganisation angepriesen, während der ursprüngliche britische Plan der "Herdenimmunität" allgemein ausgepfiffen wurde. Allerdings handelte es sich dabei eigentlich um *denselben Plan.* Großbritannien kommunizierte ihn nur schlecht.[^yong]
+Der Plan "Flatten The Curve" (Abflachen der Kurve) wurde von allen Gesundheitsorganisationen angepriesen, während der ursprüngliche britische Plan der "Herdenimmunität" allgemein ausgepfiffen wurde. Allerdings handelte es sich dabei eigentlich um *denselben Plan.* Großbritannien kommunizierte ihn nur schlecht.[^yong]
 
 [^yong]: Übersetztes Zitat: Er sagt, dass das eigentliche Ziel dasselbe ist wie in anderen Ländern: die Kurve abflachen, indem der Ausbruch von Infektionen zeitlich versetzt wird. Als Folge davon kann die Nation Herdenimmunität erreichen; das ist ein Nebeneffekt, kein Ziel. [...] Der aktuelle Coronavirus-Aktionsplan der Regierung, der online verfügbar ist, erwähnt die Herdenimmunität überhaupt nicht. (Aus einem [The Atlantic-Artikel von Ed Yong](https://www.theatlantic.com/health/archive/2020/03/coronavirus-pandemic-herd-immunity-uk-boris-johnson/608065/)) (übersetzt):“He says that the actual goal is the same as that of other countries: flatten the curve by staggering the onset of infections. As a consequence, the nation may achieve herd immunity; it’s a side effect, not an aim. [...] The government’s actual coronavirus action plan, available online, doesn’t mention herd immunity at all.” From a The Atlantic article by Ed Yong
 
@@ -287,7 +287,7 @@ Durch vermehrtes Händewaschen werden Grippen und Erkältungskrankeiten in Länd
 
 [^handwashing]: Alle acht in Frage kommenden Studien berichteten, dass das Händewaschen das Risiko einer Atemwegsinfektion senkt, wobei die Risikominderung zwischen 6% und 44% liegt. Gepoolter Wert 24% (95% CI 6-40%). (Der Einfachheit halber haben wir in diesen Simulationen den gepoolten Wert auf 25% aufgerundet.) [Rabie, T. und Curtis, V.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-3156.2006.01568.x) Anmerkung: Wie diese Meta-Analyse aufzeigt, ist die Qualität der Studien zum Händewaschen (zumindest in Ländern mit hohem Einkommen) miserabel.
 
-[^london]: Wir fanden eine 73%ige Verringerung der durchschnittlichen täglichen Anzahl der beobachteten Kontakte pro Teilnehmer. Dies würde ausreichen, um R0 von einem Wert von 2,6 vor dem Lockdown auf 0,62 (0,37 - 0,89) während des Lockdowns zu reduzieren. (Der Einfachheit halber haben wir in diesen Simulationen auf 70% abgerundet.) [Jarvis und Zandvoort et al](https://cmmid.github.io/topics/covid19/comix-impact-of-physical-distance-measures-on-transmission-in-the-UK.html)
+[^london]: Wir fanden eine 73%ige Verringerung der durchschnittlichen täglichen Anzahl der beobachteten Kontakte pro Teilnehmer. Dies würde ausreichen, um R<sub>0</sub> von einem Wert von 2,6 vor dem Lockdown auf 0,62 (0,37 - 0,89) während des Lockdowns zu reduzieren. (Der Einfachheit halber haben wir in diesen Simulationen auf 70% abgerundet.) [Jarvis und Zandvoort et al](https://cmmid.github.io/topics/covid19/comix-impact-of-physical-distance-measures-on-transmission-in-the-UK.html)
 
 **Probiere mit diesem Rechner aus, um mit unterschiedlichen % von Nicht-<icon s></icon> zu sehen, wie Händewaschen und Distanzierung R reduzieren:** (dieser Rechner visualisiert ihre *relativen* Effekte, weshalb die Erhöhung des einen Merkmals so *aussieht*, als ob es die Wirkung des anderen verringert.[^log_caveat])
 
@@ -338,7 +338,7 @@ Diese Option wurde zuerst im Bericht des Imperial College vom 16. März und spä
 
 [^lockdown_harvard]: In Abwesenheit anderer Maßnahmen ist eine Schlüsselmetrik für den Erfolg der sozialen Distanzierung, ob die Kapazitäten der Intensivstationen überschritten werden. Um dies zu vermeiden, kann eine längere oder periodische räumliche Distanzierung bis ins Jahr 2022 erforderlich sein. (übersetzt): “Absent other interventions, a key metric for the success of social distancing is whether critical care capacities are exceeded. To avoid this, prolonged or intermittent social distancing may be necessary into 2022.” [Kissler und Tedijanto et al] (https://science.sciencemag.org/content/early/2020/04/14/science.abb5793)
 
-**Hier ist eine Simulation für diese Option:** (Spiele zunächst die Aufzeichnung ab. Danach kannst du versuchen, deinen *eigenen* Lockdown-Plan zu simulieren, indem du den Schieberegler änderst ** während* die Simulation läuft! Du kannst dabei die Simulation unterbrechen, fortsetzen und die Simulationsgeschwindigkeit ändern)
+**Hier ist eine Simulation für diese Option:** (Spiele zunächst die Aufzeichnung ab. Danach kannst du versuchen, deinen *eigenen* Lockdown-Plan zu simulieren, indem du den Schieberegler änderst *während* die Simulation läuft! Du kannst dabei die Simulation unterbrechen, fortsetzen und die Simulationsgeschwindigkeit ändern)
 
 <div class="sim">
 		<iframe src="sim?stage=int-4&format=lines" width="800" height="540"></iframe>
@@ -412,7 +412,7 @@ Zusammen mit ähnlichen Teams wie TCN Protocol[^tcn] und MIT PACT[^pact] haben s
 
 [^dp3t_details]: Um "pranking" (Leute geben fälschlicherweise an, infiziert zu sein) vorzubeugen, setzt das DP-3T-Protokoll voraus, dass dir das Krankenhaus zunächst einen einmaligen Zugangscode schickt, mit dem du deine Nachrichten hochladen kannst.
     
-    Fehlalarme sind ein Problem sowohl beim manuellen wie beim digitalen contact tracing. Doch wir können sie auf 2 Arten reduzieren: 1) Indem Bob nur benachrichtigt wird, wenn die App, sagen wir mal, 30 oder mehr Minuten lang Nachrichten erhalten hat, nicht bloß eine Nachricht im Vorübergehen. Und 2) Wenn die App *wirkloch* denkt dass Bob exponiert war, kann sie ihn an eine\*n *manuelle\*n* Kontaktverfolger\*in verweisen, um ein ausführliches Folgegespräch zu führen.
+    Fehlalarme sind ein Problem sowohl beim manuellen wie beim digitalen contact tracing. Doch wir können sie auf zwei Arten reduzieren: 1) Indem Bob nur benachrichtigt wird, wenn die App, sagen wir einmal, 30 oder mehr Minuten lang Nachrichten erhalten hat, nicht bloß eine Nachricht im Vorübergehen. Und 2) Wenn die App *wirklich* denkt, dass Bob exponiert war, kann sie ihn an eine\*n *manuelle\*n* Kontaktverfolger\*in verweisen, um ein ausführliches Folgegespräch zu führen.
     
     Zu anderen Themen wie Datenbandbreite, Quellenintegrität und weiteren Sicherheitsfragen, lest euch die [open-source DP-3T whitepapers](https://github.com/DP-3T/documents#decentralized-privacy-preserving-proximity-tracing) durch!
 
