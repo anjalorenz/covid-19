@@ -30,7 +30,7 @@
 
 Sicher hortest du kein Toilettenpapier - aber wenn Politiker die Angst selbst fürchten, werden sie echte Gefahren herunterspielen, um eine "Massenpanik" zu vermeiden. Die Angst ist nicht das Problem, sondern die Art und Weise, wie wir unsere Angst *kanalisieren*. Angst gibt uns die Energie mit den jetzigen Gefahren umzugehen und uns auf kommende Gefahren vorzubereiten.
 
-Wir (Marcel, Epidemiologe + Nicky, Kunst / Code) sind ehrlich gesagt auch besorgt. Und wir wetten, dass du es auch bist! Deshalb haben wir unsere Angst dazu genutzt, um diese **spielbaren Simulationen** zu erstellen. Unser Ziel ist, dass du nicht in Panik verharrst, sondern versuchst zu verstehen und zu lernen:
+Wir (Marcel, Epidemiologe + Nicky, Kunst / Code) sind ehrlich gesagt auch besorgt. Und wir wetten, dass du es auch bist! Deshalb haben wir unsere Angst dazu genutzt, um diese **spielbaren Simulationen** zu erstellen. Unser Ziel ist, dass du nicht in Panik verharrst, sondern versuchst zu verstehen und etwas zu lernen:
 
 * **Über die letzten paar Monate** (1x1 der Epidemiologie, SEIR-Modell, R & R<sub>0</sub>)
 * **Über die nächsten paar Monate** (Lockdown, Contact Tracing, Masken)
