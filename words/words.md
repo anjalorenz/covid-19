@@ -624,7 +624,7 @@ Das ist das **SEIRS Modell**. Das letzte "S" steht wieder für <icon s></icon> "
 Lass uns jetzt einen COVID-19 Ausbruch über 10 Jahre, ohne Maßnahmen simulieren... *wenn Immunität nur ein Jahr anhält:*
 
 <div class="sim">
-		<iframe src="sim?stage=yrs-2&format=lines&height=600" width="800" height="630"></iframe>
+		<iframe src="sim?stage=yrs-2&format=lines&height=630" width="800" height="630"></iframe>
 </div>
 
 In vorangegangen Simulationen hatten wir nur *eine* die Intensivstationen überfordernde Spitze. Jetzt haben wir mehrere und die <icon i></icon> Fälle pendeln sich *dauerhaft* bei der Kapazität der Intensivstationen ein.
@@ -635,7 +635,7 @@ R = 1, es ist **endemisch.**
 Zum Glück reduziert der Sommer R, was die Situation verbessert:
 
 <div class="sim">
-		<iframe src="sim?stage=yrs-3&format=lines&height=640" width="800" height="670"></iframe>
+		<iframe src="sim?stage=yrs-3&format=lines&height=670" width="800" height="670"></iframe>
 </div>
 
 Oh.
