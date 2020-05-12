@@ -201,7 +201,7 @@ Für Grippeviren wird Herdenimmunität mittels eines *Impfstoffs* erreicht. Die 
 Lass uns jetzt das SEIR-Modell betrachten, das nun R<sub>0</sub> zeigt, R über die Zeit, sowie den Schwellenwert der Herdenimmunität zeigt: 
 
 <div class="sim">
-		<iframe src="sim?stage=epi-7" width="800" height="570"></iframe>
+		<iframe src="sim?stage=epi-7&height=570" width="800" height="570"></iframe>
 </div>
 
 **HINWEIS: Die Gesamtzahl der Infizierten *stoppt nicht* an der Grenze der Herdenimmunität, sondern geht darüber hinaus!** Zudem überschreitet die Gesamtzahl der Infizierten den Schwellenwert der Herdenimmunität *genau* zum Zeitpunkt der höchsten aktuellen Fallzahl. (Dies ist unabhängig von der Wahl der Parameter - teste es selbst!) 
