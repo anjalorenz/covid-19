@@ -201,7 +201,7 @@ Für Grippeviren wird Herdenimmunität mittels eines *Impfstoffs* erreicht. Die 
 Lass uns jetzt das SEIR-Modell betrachten, das nun R<sub>0</sub> zeigt, R über die Zeit, sowie den Schwellenwert der Herdenimmunität zeigt: 
 
 <div class="sim">
-		<iframe src="sim?stage=epi-7" width="800" height="540"></iframe>
+		<iframe src="sim?stage=epi-7" width="800" height="570"></iframe>
 </div>
 
 **HINWEIS: Die Gesamtzahl der Infizierten *stoppt nicht* an der Grenze der Herdenimmunität, sondern geht darüber hinaus!** Zudem überschreitet die Gesamtzahl der Infizierten den Schwellenwert der Herdenimmunität *genau* zum Zeitpunkt der höchsten aktuellen Fallzahl. (Dies ist unabhängig von der Wahl der Parameter - teste es selbst!) 
@@ -624,7 +624,7 @@ Das ist das **SEIRS Modell**. Das letzte "S" steht wieder für <icon s></icon> "
 Lass uns jetzt einen COVID-19 Ausbruch über 10 Jahre, ohne Maßnahmen simulieren... *wenn Immunität nur ein Jahr anhält:*
 
 <div class="sim">
-		<iframe src="sim?stage=yrs-2&format=lines&height=600" width="800" height="600"></iframe>
+		<iframe src="sim?stage=yrs-2&format=lines&height=600" width="800" height="630"></iframe>
 </div>
 
 In vorangegangen Simulationen hatten wir nur *eine* die Intensivstationen überfordernde Spitze. Jetzt haben wir mehrere und die <icon i></icon> Fälle pendeln sich *dauerhaft* bei der Kapazität der Intensivstationen ein.
@@ -635,7 +635,7 @@ R = 1, es ist **endemisch.**
 Zum Glück reduziert der Sommer R, was die Situation verbessert:
 
 <div class="sim">
-		<iframe src="sim?stage=yrs-3&format=lines&height=640" width="800" height="640"></iframe>
+		<iframe src="sim?stage=yrs-3&format=lines&height=640" width="800" height="670"></iframe>
 </div>
 
 Oh.
