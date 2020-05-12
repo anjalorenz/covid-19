@@ -186,7 +186,7 @@ die <b style='color:#888'>Graue Kurve</b> gibt die <em>gesamten</em> Fälle (akt
 <p>Sobald genügend Menschen eine Immunität erworben haben und R &lt; 1 ist, hat man das Virus im Griff. Dies nennt man <em>Herdenimmunität</em>. Für Grippeviren wird Herdenimmunität mittels eines <em>Impfstoffs</em> erreicht. Die Idee, "natürliche Herdenimmunität" durch gezielte Infizierungen zu erreichen ist denkbar schlecht! (Aber nicht aus dem Grund, den du vielleicht annimmst - wir werden das später erklären!)</p>
 <p>Lass uns jetzt das SEIR-Modell betrachten, das nun R<sub>0</sub> zeigt, R über die Zeit, sowie den Schwellenwert der Herdenimmunität zeigt:</p>
 <div class="sim">
-        <iframe src="sim?stage=epi-7" width="800" height="540"></iframe>
+        <iframe src="sim?stage=epi-7" width="800" height="570"></iframe>
 </div>
 <p><strong>HINWEIS: Die Gesamtzahl der Infizierten <em>stoppt nicht</em> an der Grenze der Herdenimmunität, sondern geht darüber hinaus!</strong> Zudem überschreitet die Gesamtzahl der Infizierten den Schwellenwert der Herdenimmunität <em>genau</em> zum Zeitpunkt der höchsten aktuellen Fallzahl. (Dies ist unabhängig von der Wahl der Parameter - teste es selbst!)</p>
 <p>Warum ist das so? Wenn es mehr Nicht-<icon s></icon> als die Schwelle der Herdenimmunität gibt, so wird R &lt; 1. Und wenn R &lt; 1 ist, stoppt das Wachstum neuer Fälle: ein Hochpunkt ist erreicht.</p>
@@ -378,13 +378,13 @@ die <b style='color:#888'>Graue Kurve</b> gibt die <em>gesamten</em> Fälle (akt
 <p><img src="pics/seirs.png" /></p>
 <p>Lass uns jetzt einen COVID-19 Ausbruch über 10 Jahre, ohne Maßnahmen simulieren... <em>wenn Immunität nur ein Jahr anhält:</em></p>
 <div class="sim">
-        <iframe src="sim?stage=yrs-2&format=lines&height=600" width="800" height="600"></iframe>
+        <iframe src="sim?stage=yrs-2&format=lines&height=600" width="800" height="630"></iframe>
 </div>
 <p>In vorangegangen Simulationen hatten wir nur <em>eine</em> die Intensivstationen überfordernde Spitze. Jetzt haben wir mehrere und die <icon i></icon> Fälle pendeln sich <em>dauerhaft</em> bei der Kapazität der Intensivstationen ein. (Denk dran, diese hatten wir für diese Simulationen <em>verdreifacht</em>.)</p>
 <p>R = 1, es ist <strong>endemisch.</strong></p>
 <p>Zum Glück reduziert der Sommer R, was die Situation verbessert:</p>
 <div class="sim">
-        <iframe src="sim?stage=yrs-3&format=lines&height=640" width="800" height="640"></iframe>
+        <iframe src="sim?stage=yrs-3&format=lines&height=640" width="800" height="670"></iframe>
 </div>
 <p>Oh.</p>
 <p>Überraschenderweise macht der Sommer die Spitzen schlimmer <em>und</em> regelmäßig! Das liegt daran, dass der Sommer die neuen <icon i></icon>s absenkt, was aber wiederum die neuen imunen <icon r></icon>s absenkt. Das bedeutet, Immunität stürzt im Sommer ab was eine große, wiederkehrende Spitze im Winter <em>erzeugt</em>.</p>
